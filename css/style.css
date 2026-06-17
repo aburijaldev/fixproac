@@ -1424,8 +1424,8 @@ footer {
 
     top: 85px;
     left: -100%;
-
-    width: 100%;
+    align-items: center;
+    width: 50%;
     height: calc(100vh - 85px);
 
     background: #fff;
